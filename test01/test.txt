@@ -1,4 +1,5 @@
-das ist ein test 87
+﻿das ist ein test 87
 hier lokal geändert
 hier remote geändert
 remote change was here.....
+local change
