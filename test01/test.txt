@@ -1,4 +1,4 @@
 das ist ein test 87
-hier lokal geändert
-
-hier remote geändert
+hier lokal geÃ¤ndert
+hier remote geÃ¤ndert
+remote change was here.....
